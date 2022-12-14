@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmadgusau8694
 - 👀 I’m interested in exploring aand surfing the web
 - 🌱 I’m currently learning block chain, Bitcoin in particular
-- 💞️ I’m looking to collaborate on the study
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me https://www.facebook.com/ahmadgusasu LinkedIn:www.linkedin.com/in/ahmadmuhammadgusau Twitter: @Ahmadgusau1
 
 <!---
